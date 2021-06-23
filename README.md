@@ -13,8 +13,11 @@ The method is applicable to Laravel 6 and also Laravel 7
 8. php artisan migrate
 9. php artisan serve
 10. Navigate to http://127.0.0.1:8000/projects
-
-
+![](images/update-project.PNG)|
+View project details http://127.0.0.1:8000/projects/3
+![](images/view-project.PNG)|
+Create a new project http://127.0.0.1:8000/projects/create
+![](images/Create-project.PNG)
 
 ## Operations
 1. Create a project
