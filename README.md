@@ -1,6 +1,6 @@
 # laravel_8_crud
 This is a simple laravel 8 CRUD app.
-The repository is the code to one of my article on **Dev.to**, [Laravel 8 CRUD App, A simple guide](https://github.com/mohammad2745/laravel-crud) the article will teach you how to create a CRUD app on Laravel 8, the method is applicable to Laravel 6 and also Laravel 7 
+The method is applicable to Laravel 6 and also Laravel 7 
 
 ## How to install and run on your local system
 1. git clone https://github.com/mohammad2745/laravel-crud
@@ -13,6 +13,7 @@ The repository is the code to one of my article on **Dev.to**, [Laravel 8 CRUD A
 8. php artisan migrate
 9. php artisan serve
 10. Navigate to http://127.0.0.1:8000/projects
+
 
 
 ## Operations
